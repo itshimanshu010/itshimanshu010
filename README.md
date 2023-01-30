@@ -57,4 +57,4 @@
 	     <li><b>To Stay Updated:</b> Linkedin </li>
 	    <br />
 	</ul>
-</details>
+</details> 
