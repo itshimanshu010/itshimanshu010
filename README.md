@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px>, I'm Himanshu Jaiswal 🎯️🚀️</h1>
+<h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height=30px>, I'm Himanshu Jaiswal 🎯️🚀️</h1>
 <h3 align="center">Hey it's me Himanshu.I have a keen interest in DSA, C++ and Web Development and have a huge fascination with the inner workings of technology.</h3>
 
 
