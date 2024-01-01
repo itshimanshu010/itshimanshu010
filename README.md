@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Web Development and DSA.**
 - 👯 I’m looking to collaborate on **Web Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/itshimanshu010?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="itshimanshu010" height="30" width="40" /></a>
-- 💬 Ask me about **C++, HTML and CSS.**
+- 💬 Ask me about **Frontend Technologies.**
 
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
