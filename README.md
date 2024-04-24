@@ -51,7 +51,6 @@
 	     <li><b>Laptop: </b> Asus TUF F15</li>
   	   <li><b>Browser: </b> Edge</li>
 	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	     <li><b>To Stay Updated:</b> Linkedin </li>
 	    <br/> ------------------------
 	</ul>
 	<ul>
