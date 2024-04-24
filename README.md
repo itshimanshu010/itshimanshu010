@@ -53,9 +53,7 @@
 	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	     <li><b>To Stay Updated:</b> Linkedin </li>
 	    <br />
-	</ul>
-
-	<ul>
+	
   	   <li><b>OS:</b> MacOs Monterey </li>
 	     <li><b>System: </b> Macmini7,1</li>
   	   <li><b>Browser: </b> Chrome</li>
