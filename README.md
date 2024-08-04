@@ -6,8 +6,8 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **Coding Skills.**
-- 🌱 I’m currently learning **Web Development and DSA.**
+- 🔭 I’m currently working as **Angular Developer.**
+- 🌱 I’m currently improving **Problem Solving Skills and DSA.**
 - 👯 I’m looking to collaborate on **Web Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/itshimanshu010?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="itshimanshu010" height="30" width="40" /></a>
 - 💬 Ask me about **Frontend Technologies.**
