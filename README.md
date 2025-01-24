@@ -1,16 +1,29 @@
-
-<h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height=30px>, I'm Himanshu Jaiswal 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Himanshu.I have a keen interest in DSA, C++ and Web Development and have a huge fascination with the inner workings of technology.</h3>
-
-
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Himanshu Jaiswal 🎯️🚀️</h1>
+<h3 align="center">I'm a passionate **Angular Developer** with a strong interest in **DSA**, **C++**, and **Web Development**. I have a deep fascination with the inner workings of technology and love building scalable, user-friendly applications.</h3>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working as **Angular Developer.**
-- 🌱 I’m currently improving **Problem Solving Skills and DSA.**
-- 👯 I’m looking to collaborate on **Web Projects.**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/itshimanshu010?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="itshimanshu010" height="30" width="40" /></a>
-- 💬 Ask me about **Frontend Technologies.**
+- 🔭 I’m currently working as an **Angular Developer**, building responsive and scalable web applications.
+- 🌱 I'm enhancing my **Problem Solving Skills** and mastering **DSA** to improve my coding efficiency.
+- 👯 I’m always open to collaborating on interesting **Web Development** projects.
+- 👨‍💻 All of my projects are available at: 
+  <a href="https://github.com/itshimanshu010?tab=repositories" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="itshimanshu010" height="30" width="40" />
+  </a>
+- 💬 Feel free to ask me about **Frontend Technologies**, **Angular**, or **Web Development** best practices.
+
+## 🚀 **Technologies & Tools:**
+- **Frontend**: Angular, JavaScript, TypeScript, HTML, CSS, SCSS, Angular Material
+- **Backend**: Laravel, Node.js, Express
+- **Databases**: MongoDB, MySQL
+- **Version Control**: Git, GitHub
+- **Cloud/Deployment**: Azure, Netlify, Vercel
+- **Testing**: Jest, Jasmine, Karma
+
+## 🛠️ **Recent Projects:**
+- **Sentridocs**: A CI/CD document management system built with Angular and AES encryption.
+- **PMS (Project Management System)**: A full-stack Laravel application with role-based access and task management.
+- **E-SHOPPERS**: An e-commerce platform designed with Laravel and MySQL.
 
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
