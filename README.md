@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Himanshu Jaiswal 🎯️🚀️</h1>
-<h3 align="center">I'm a passionate **Angular Developer** with a strong interest in **DSA**, **C++**, and **Web Development**. I have a deep fascination with the inner workings of technology and love building scalable, user-friendly applications.</h3>
+<h3 align="center">I'm a passionate **Angular Developer** with a strong interest in **DSA**, **Java**, and **Web Development**. I have a deep fascination with the inner workings of technology and love building scalable, user-friendly applications.</h3>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
