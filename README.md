@@ -14,16 +14,16 @@
 
 ## 🚀 **Technologies & Tools:**
 - **Frontend**: Angular, JavaScript, TypeScript, HTML, CSS, SCSS, Angular Material
-- **Backend**: Laravel, Node.js, Express
-- **Databases**: MongoDB, MySQL
+- **Backend**: Laravel, C#
+- **Databases**:  MySQL
 - **Version Control**: Git, GitHub
-- **Cloud/Deployment**: Azure, Netlify, Vercel
-- **Testing**: Jest, Jasmine, Karma
+- **Cloud/Deployment**: Azure, Netlify
+- **Testing**: Jest
 
 ## 🛠️ **Recent Projects:**
-- **Sentridocs**: A CI/CD document management system built with Angular and AES encryption.
-- **PMS (Project Management System)**: A full-stack Laravel application with role-based access and task management.
-- **E-SHOPPERS**: An e-commerce platform designed with Laravel and MySQL.
+- **JobAng**: A responsive job career portal for freshers, featuring role-based access, job search filters, real-time application tracking, and personalized job recommendations.
+- **Task Management System (TMS)**: A task and project management web application designed to track tasks, deadlines, and progress, aimed at improving team collaboration and productivity.
+- **E-Shopper**: A fully functional e-commerce platform designed with Laravel and MySQL, including secure user/admin sections, inventory management, order processing, and customer engagement.
 
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
