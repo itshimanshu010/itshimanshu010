@@ -1,21 +1,21 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Himanshu Jaiswal 🎯️🚀️</h1>
-<h3 align="center">I'm a passionate **Angular Developer** with a strong interest in **DSA**, **Java**, and **Web Development**. I have a deep fascination with the inner workings of technology and love building scalable, user-friendly applications.</h3>
+<h3 align="center">I'm a passionate **Software Developer** with a strong interest in **DSA**, **Java**, and **Web Development**. I have a deep fascination with the inner workings of technology and love building scalable, user-friendly applications.</h3>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working as an **Angular Developer**, building responsive and scalable web applications.
+- 🔭 I’m currently working as an **Software Developer**, building responsive and scalable web applications.
 - 🌱 I'm enhancing my **Problem Solving Skills** and mastering **DSA** to improve my coding efficiency.
 - 👯 I’m always open to collaborating on interesting **Web Development** projects.
 - 👨‍💻 All of my projects are available at: 
   <a href="https://github.com/itshimanshu010?tab=repositories" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="itshimanshu010" height="30" width="40" />
   </a>
-- 💬 Feel free to ask me about **Frontend Technologies**, **Angular**, or **Web Development** best practices.
+- 💬 Feel free to ask me about **Full Stack Technologies** or **Web Development** best practices.
 
 ## 🚀 **Technologies & Tools:**
-- **Frontend**: Angular, JavaScript, TypeScript, HTML, CSS, SCSS, Angular Material
-- **Backend**: Laravel, C#
-- **Databases**:  MySQL
+- **Frontend**: Angular, React JS, JavaScript, TypeScript, HTML, CSS, SCSS, Angular Material
+- **Backend**: Laravel, Node JS
+- **Databases**:  MySQL, MongoDB
 - **Version Control**: Git, GitHub
 - **Cloud/Deployment**: Azure, Netlify
 - **Testing**: Jest
