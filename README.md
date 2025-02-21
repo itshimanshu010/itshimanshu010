@@ -23,7 +23,7 @@
 ## 🛠️ **Recent Projects:**
 - **JobAng**: A responsive job career portal for freshers, featuring role-based access, job search filters, real-time application tracking, and personalized job recommendations.
 - **Task Management System (TMS)**: A task and project management web application designed to track tasks, deadlines, and progress, aimed at improving team collaboration and productivity.
-- **E-Shopper**: A fully functional e-commerce platform designed with Laravel and MySQL, including secure user/admin sections, inventory management, order processing, and customer engagement.
+- **ClassyShop**: A fully functional e-commerce platform designed with Laravel and MySQL, including secure user/admin sections, inventory management, order processing, and customer engagement.
 
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
