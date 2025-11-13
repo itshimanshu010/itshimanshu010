@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Himanshu Jaiswal 🎯️🚀️</h1>
-<h3 align="center">I'm a passionate **Software Developer** with a strong interest in **DSA**, **Java**, and **Web Development**. I have a deep fascination with the inner workings of technology and love building scalable, user-friendly applications.</h3>
+<h3 align="center">I'm a passionate **Software Developer** with a strong interest in **DSA**, **Python**, and **Web Development**. I have a deep fascination with the inner workings of technology and love building scalable, user-friendly applications.</h3>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
@@ -13,17 +13,15 @@
 - 💬 Feel free to ask me about **Full Stack Technologies** or **Web Development** best practices.
 
 ## 🚀 **Technologies & Tools:**
-- **Frontend**: Angular, React JS, JavaScript, TypeScript, HTML, CSS, SCSS, Angular Material
-- **Backend**: Laravel, Node JS
+- **Language**: Python JavaScript, TypeScript
+- **Frontend**: Angular, React JS
+- **Backend**: Flask, Node JS
 - **Databases**:  MySQL, MongoDB
 - **Version Control**: Git, GitHub
-- **Cloud/Deployment**: Azure, Netlify
-- **Testing**: Jest
+
 
 ## 🛠️ **Recent Projects:**
 - **JobAng**: A responsive job career portal for freshers, featuring role-based access, job search filters, real-time application tracking, and personalized job recommendations.
-- **Project Management System (PMS)**: A task and project management web application designed to track tasks, deadlines, and progress, aimed at improving team collaboration and productivity.
-- **ClassyShop**: A fully functional e-commerce platform designed with Laravel and MySQL, including secure user/admin sections, inventory management, order processing, and customer engagement.
 
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
